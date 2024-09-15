@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @NedTlei
 - 👀 I’m interested in .football and game development..
 - 🌱 I’m currently learning .Unity/C#..
-- 💞️ I’m looking to collaborate on I do not think of cooperation.
+- 💞️I don't plan on doing any collaboration.
 - 📫 How to reach me ...Discord NedTlei
-- 😄 Pronouns: ..NedTlei.
-- ⚡ Fun fact: ...I lıke technology
+
 
 <!---
 NedTlei/NedTlei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
